@@ -1,0 +1,1 @@
+This clock app was created to strengthen my CSS/JS skills. When the screen is expanded all of the hours on the clock stay within the borders of the clock. However, when the window collapses the numbers (hours) on the clock go outside of the border. I am still working on trying to keep the hours inside of the clock. This exercise was fun to do. 
